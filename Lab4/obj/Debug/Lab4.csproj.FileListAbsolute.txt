@@ -1,0 +1,14 @@
+C:\Users\Buzz\Desktop\Учеба\6 семак\ТФЯиК\Lab 4\language-processor-lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Buzz\Desktop\Учеба\6 семак\ТФЯиК\Lab 4\language-processor-lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Buzz\Desktop\Учеба\6 семак\ТФЯиК\Lab 4\language-processor-lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Buzz\Desktop\Учеба\6 семак\ТФЯиК\Lab 4\language-processor-lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Buzz\Desktop\Учеба\6 семак\ТФЯиК\Lab 4\language-processor-lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Buzz\Desktop\Учеба\6 семак\ТФЯиК\Lab 4\language-processor-lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Buzz\Desktop\Учеба\6 семак\ТФЯиК\Lab 4\language-processor-lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Buzz\Desktop\Учеба\6 семак\ТФЯиК\Lab 4\language-processor-lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Buzz\Desktop\Учеба\6 семак\ТФЯиК\Lab 4\language-processor-lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Buzz\Desktop\Учеба\6 семак\ТФЯиК\Lab 4\language-processor-lab4\Lab4\obj\Debug\Lab4.AboutForm.resources
+C:\Users\Buzz\Desktop\Учеба\6 семак\ТФЯиК\Lab 4\language-processor-lab4\Lab4\obj\Debug\Lab4.SaveBeforeCloseForm.resources
+C:\Users\Buzz\Desktop\Учеба\6 семак\ТФЯиК\Lab 4\language-processor-lab4\Lab4\obj\Debug\Lab4.LanguageProcessorForm.resources
+C:\Users\Admin\Downloads\Lab4\obj\Debug\Lab4.exe
+C:\Users\Admin\Downloads\Lab4\obj\Debug\Lab4.pdb
